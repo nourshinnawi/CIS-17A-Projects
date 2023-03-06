@@ -1,9 +1,6 @@
 // ====================================================
 // File: HW_1d.cpp
 // ====================================================
-// Programmer: Nour Shinnawi
-// Class: CIS 17A
-// Instructor: Dennis Rainey
 //
 // Description: 
 //	This function will search for the user's ID number		
