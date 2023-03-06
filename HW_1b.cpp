@@ -1,9 +1,6 @@
 // ====================================================
 // File: HW_1b.cpp
 // ====================================================
-// Programmer: Nour Shinnawi
-// Class: CIS 17A
-// Instructor: Dennis Rainey
 //
 // Description: 
 //		This program will take three temperatures 
