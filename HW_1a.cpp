@@ -2,9 +2,6 @@
 // ====================================================
 // File: HW_1a.cpp
 // ====================================================
-// Programmer: Nour Shinnawi
-// Class: CIS 17A
-// Instructor: Dennis Rainey
 //
 // Description: 
 //	This program calculates the total amount of
