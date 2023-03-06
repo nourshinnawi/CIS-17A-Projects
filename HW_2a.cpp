@@ -2,10 +2,6 @@
 // ===============================
 // File: HW_2a
 // ===============================
-// Programmer: Nour Shinnawi
-// Class: CIS 17A
-// Instructor: Dennis Rainey
-// ===============================
 #include <iostream>
 using namespace std;
 // ===============================
