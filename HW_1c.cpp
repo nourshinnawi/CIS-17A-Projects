@@ -1,15 +1,12 @@
 // ====================================================
 // File: HW_1c.cpp
 // ====================================================
-// Programmer: Nour Shinnawi
-// Class: CIS 17A
-// Instructor: Dennis Rainey
 //
 // Description: 
-//		This program will take three temperatures 
-//		inputed by the user and find the average. Then
-//		it will display the average temperature for the
-//		cities.
+//	This program will take three temperatures 
+//	inputed by the user and find the average. Then
+//	it will display the average temperature for the
+//	cities.
 // ====================================================
 
 #include <iostream>
