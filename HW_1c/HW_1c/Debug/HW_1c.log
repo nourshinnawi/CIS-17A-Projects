@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\nours\documents\cis 17a\hw_1c\hw_1c\main.cpp(28): warning C4101: 'avg': unreferenced local variable
+  HW_1c.vcxproj -> C:\Users\nours\Documents\CIS 17A\HW_1c\Debug\HW_1c.exe
+  HW_1c.vcxproj -> C:\Users\nours\Documents\CIS 17A\HW_1c\Debug\HW_1c.pdb (Full PDB)
