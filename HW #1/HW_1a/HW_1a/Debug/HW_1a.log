@@ -1,7 +1,0 @@
-﻿  main.cpp
-c:\users\nours\documents\cis 5\hw_1a\hw_1a\main.cpp(101): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\nours\documents\cis 5\hw_1a\hw_1a\main.cpp(103): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
-c:\users\nours\documents\cis 5\hw_1a\hw_1a\main.cpp(105): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\nours\documents\cis 5\hw_1a\hw_1a\main.cpp(194): warning C4715: 'runAgain': not all control paths return a value
-  HW_1a.vcxproj -> C:\Users\nours\Documents\CIS 5\HW_1a\Debug\HW_1a.exe
-  HW_1a.vcxproj -> C:\Users\nours\Documents\CIS 5\HW_1a\Debug\HW_1a.pdb (Full PDB)
