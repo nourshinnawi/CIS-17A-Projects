@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\nours\documents\cis 17a\hw_10b\hw_10b\main.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\nours\documents\cis 17a\hw_10b\hw_10b\main.cpp(43): warning C4018: '<': signed/unsigned mismatch
+c:\users\nours\documents\cis 17a\hw_10b\hw_10b\main.cpp(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\nours\documents\cis 17a\hw_10b\hw_10b\main.cpp(65): warning C4018: '<': signed/unsigned mismatch
+  HW_10b.vcxproj -> C:\Users\nours\Documents\CIS 17A\HW_10b\Debug\HW_10b.exe
+  HW_10b.vcxproj -> C:\Users\nours\Documents\CIS 17A\HW_10b\Debug\HW_10b.pdb (Full PDB)
