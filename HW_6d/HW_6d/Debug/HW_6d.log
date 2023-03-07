@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\nours\documents\cis 17a\hw_6d\hw_6d\main.cpp(24): warning C4101: 'answer': unreferenced local variable
+  HW_6d.vcxproj -> C:\Users\nours\Documents\CIS 17A\HW_6d\Debug\HW_6d.exe
+  HW_6d.vcxproj -> C:\Users\nours\Documents\CIS 17A\HW_6d\Debug\HW_6d.pdb (Full PDB)
