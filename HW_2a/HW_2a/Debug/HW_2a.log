@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\nours\documents\cis 17a\hw_2a\hw_2a\main.cpp(42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\nours\documents\cis 17a\hw_2a\hw_2a\main.cpp(44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  HW_2a.vcxproj -> C:\Users\nours\Documents\CIS 17A\HW_2a\Debug\HW_2a.exe
+  HW_2a.vcxproj -> C:\Users\nours\Documents\CIS 17A\HW_2a\Debug\HW_2a.pdb (Full PDB)
